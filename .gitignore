@@ -1,2 +1,9 @@
 *.class
 *.log
+
+.DS_STORE
+.idea
+*.iml
+
+.bsp
+target
